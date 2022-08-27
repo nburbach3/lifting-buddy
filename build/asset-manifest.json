@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lifting-buddy/static/css/main.073c9b0a.css",
+    "main.js": "/lifting-buddy/static/js/main.37b5fb3c.js",
+    "static/js/787.f441ebf0.chunk.js": "/lifting-buddy/static/js/787.f441ebf0.chunk.js",
+    "static/media/logo.svg": "/lifting-buddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lifting-buddy/index.html",
+    "main.073c9b0a.css.map": "/lifting-buddy/static/css/main.073c9b0a.css.map",
+    "main.37b5fb3c.js.map": "/lifting-buddy/static/js/main.37b5fb3c.js.map",
+    "787.f441ebf0.chunk.js.map": "/lifting-buddy/static/js/787.f441ebf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.37b5fb3c.js"
+  ]
+}
